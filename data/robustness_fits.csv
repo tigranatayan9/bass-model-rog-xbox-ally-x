@@ -1,0 +1,5 @@
+version,p,q,M,r2,n_obs
+Main fit: each period keeps its real length,0.0633,0.4936,163.1049,0.9361,10
+"Launch month treated as a full year (t = 1, 2, ..., 10)",0.0324,0.5749,163.6303,0.9018,10
+Launch month merged into FY2018,0.0682,0.4661,166.1581,0.8937,9
+Without FY2026 (the year Switch 2 launched),0.0650,0.4643,167.2940,0.9277,9

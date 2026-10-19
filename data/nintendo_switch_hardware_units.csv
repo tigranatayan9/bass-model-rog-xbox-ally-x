@@ -1,0 +1,11 @@
+fiscal_year,period_start,period_end,units_million,source
+FY3/2017,2017-03-03,2017-03-31,2.74,"Nintendo, Consolidated Financial Statements, FY ended March 2017 (27 Apr 2017), https://www.nintendo.co.jp/ir/pdf/2017/170427e.pdf; launch on 3 Mar 2017, so this period is the first 4 weeks only"
+FY3/2018,2017-04-01,2018-03-31,15.05,"Nintendo, Consolidated Financial Statements, FY ended March 2019 (25 Apr 2019), https://www.nintendo.co.jp/ir/pdf/2019/190425e.pdf"
+FY3/2019,2018-04-01,2019-03-31,16.95,"Nintendo, Consolidated Financial Statements, FY ended March 2019 (25 Apr 2019), https://www.nintendo.co.jp/ir/pdf/2019/190425e.pdf"
+FY3/2020,2019-04-01,2020-03-31,21.03,"Nintendo, Financial Results Explanatory Material, FY ended March 2021 (6 May 2021), https://www.nintendo.co.jp/ir/pdf/2021/210506_4e.pdf"
+FY3/2021,2020-04-01,2021-03-31,28.83,"Nintendo, Financial Results Explanatory Material, FY ended March 2021 (6 May 2021), https://www.nintendo.co.jp/ir/pdf/2021/210506_4e.pdf"
+FY3/2022,2021-04-01,2022-03-31,23.06,"Nintendo, Financial Results Explanatory Material, FY ended March 2023 (9 May 2023), https://www.nintendo.co.jp/ir/pdf/2023/230509_4e.pdf"
+FY3/2023,2022-04-01,2023-03-31,17.97,"Nintendo, Financial Results Explanatory Material, FY ended March 2023 (9 May 2023), https://www.nintendo.co.jp/ir/pdf/2023/230509_4e.pdf"
+FY3/2024,2023-04-01,2024-03-31,15.70,"Nintendo, Financial Results Explanatory Material, FY ended March 2025 (8 May 2025), https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf"
+FY3/2025,2024-04-01,2025-03-31,10.80,"Nintendo, Financial Results Explanatory Material, FY ended March 2025 (8 May 2025), https://www.nintendo.co.jp/ir/pdf/2025/250508_4e.pdf"
+FY3/2026,2025-04-01,2026-03-31,3.80,"Nintendo, Financial Results Explanatory Material, FY ended March 2026 (8 May 2026), https://www.nintendo.co.jp/ir/pdf/2026/260508_4e.pdf"

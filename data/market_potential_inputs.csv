@@ -1,0 +1,7 @@
+input,value,unit,source
+pc_handheld_sales_2025,2.3,million units,"Omdia press release (18 Aug 2025): 2.3 million PC gaming handhelds will be sold in 2025"
+pc_handheld_sales_2029,4.7,million units per year,"Omdia press release (18 Aug 2025): 4.7 million PC handhelds will be sold annually by 2029"
+selling_window_years,8,years from launch,"Nintendo Switch sold 152.12M of its 155.92M units to date (97.6%) in its first 8 years (Nintendo results, May 2025 and May 2026). Window counted from the Ally X launch: 16 Oct 2025 to 15 Oct 2033"
+allyx_share_low,0.10,share of PC handheld sales,"Assumption (Fermi), see report Section 6"
+allyx_share_base,0.15,share of PC handheld sales,"Assumption (Fermi), anchored on ASUS revenue guidance for the Ally line (about $130-160 million per quarter) divided by the $999.99 price; see data/cross_checks.csv"
+allyx_share_high,0.25,share of PC handheld sales,"Assumption (Fermi), see report Section 6"
